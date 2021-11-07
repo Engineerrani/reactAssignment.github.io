@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/reactAssignment.github.io/static/css/main.a617e044.chunk.css",
+    "main.js": "/reactAssignment.github.io/static/js/main.7f668743.chunk.js",
+    "main.js.map": "/reactAssignment.github.io/static/js/main.7f668743.chunk.js.map",
+    "runtime-main.js": "/reactAssignment.github.io/static/js/runtime-main.8cbf8e67.js",
+    "runtime-main.js.map": "/reactAssignment.github.io/static/js/runtime-main.8cbf8e67.js.map",
+    "static/js/2.2071f83a.chunk.js": "/reactAssignment.github.io/static/js/2.2071f83a.chunk.js",
+    "static/js/2.2071f83a.chunk.js.map": "/reactAssignment.github.io/static/js/2.2071f83a.chunk.js.map",
+    "static/js/3.1cf1a53f.chunk.js": "/reactAssignment.github.io/static/js/3.1cf1a53f.chunk.js",
+    "static/js/3.1cf1a53f.chunk.js.map": "/reactAssignment.github.io/static/js/3.1cf1a53f.chunk.js.map",
+    "index.html": "/reactAssignment.github.io/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/reactAssignment.github.io/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.2071f83a.chunk.js.LICENSE.txt": "/reactAssignment.github.io/static/js/2.2071f83a.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/reactAssignment.github.io/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8cbf8e67.js",
+    "static/js/2.2071f83a.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.7f668743.chunk.js"
+  ]
+}
